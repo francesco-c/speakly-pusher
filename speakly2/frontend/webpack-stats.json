@@ -1,0 +1,299 @@
+{
+  "status": "done",
+  "assets": {
+    "fonts/MaterialIcons-Regular.ae8b1248.eot": {
+      "name": "fonts/MaterialIcons-Regular.ae8b1248.eot",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/fonts/MaterialIcons-Regular.ae8b1248.eot",
+      "publicPath": "http://0.0.0.0:8080/fonts/MaterialIcons-Regular.ae8b1248.eot"
+    },
+    "fonts/MaterialIcons-Regular.b9968c1a.ttf": {
+      "name": "fonts/MaterialIcons-Regular.b9968c1a.ttf",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/fonts/MaterialIcons-Regular.b9968c1a.ttf",
+      "publicPath": "http://0.0.0.0:8080/fonts/MaterialIcons-Regular.b9968c1a.ttf"
+    },
+    "fonts/MaterialIcons-Regular.39bfea5e.woff": {
+      "name": "fonts/MaterialIcons-Regular.39bfea5e.woff",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/fonts/MaterialIcons-Regular.39bfea5e.woff",
+      "publicPath": "http://0.0.0.0:8080/fonts/MaterialIcons-Regular.39bfea5e.woff"
+    },
+    "fonts/MaterialIcons-Regular.b073f597.woff2": {
+      "name": "fonts/MaterialIcons-Regular.b073f597.woff2",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/fonts/MaterialIcons-Regular.b073f597.woff2",
+      "publicPath": "http://0.0.0.0:8080/fonts/MaterialIcons-Regular.b073f597.woff2"
+    },
+    "js/app.js": {
+      "name": "js/app.js",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/js/app.js",
+      "publicPath": "http://0.0.0.0:8080/js/app.js"
+    },
+    "index.html": {
+      "name": "index.html",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/index.html",
+      "publicPath": "http://0.0.0.0:8080/index.html"
+    },
+    "favicon.ico": {
+      "name": "favicon.ico",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/favicon.ico",
+      "publicPath": "http://0.0.0.0:8080/favicon.ico"
+    },
+    "8d3a3905903e37293b63.hot-update.json": {
+      "name": "8d3a3905903e37293b63.hot-update.json",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/8d3a3905903e37293b63.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/8d3a3905903e37293b63.hot-update.json"
+    },
+    "b6ca3fe989016d10e06b.hot-update.json": {
+      "name": "b6ca3fe989016d10e06b.hot-update.json",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/b6ca3fe989016d10e06b.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/b6ca3fe989016d10e06b.hot-update.json"
+    },
+    "app.6065a0a3b857a0397c87.hot-update.js": {
+      "name": "app.6065a0a3b857a0397c87.hot-update.js",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/app.6065a0a3b857a0397c87.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.6065a0a3b857a0397c87.hot-update.js"
+    },
+    "6065a0a3b857a0397c87.hot-update.json": {
+      "name": "6065a0a3b857a0397c87.hot-update.json",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/6065a0a3b857a0397c87.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/6065a0a3b857a0397c87.hot-update.json"
+    },
+    "app.b021b093108e34e32cbf.hot-update.js": {
+      "name": "app.b021b093108e34e32cbf.hot-update.js",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/app.b021b093108e34e32cbf.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.b021b093108e34e32cbf.hot-update.js"
+    },
+    "b021b093108e34e32cbf.hot-update.json": {
+      "name": "b021b093108e34e32cbf.hot-update.json",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/b021b093108e34e32cbf.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/b021b093108e34e32cbf.hot-update.json"
+    },
+    "app.114ca6e7ac90e14bf49f.hot-update.js": {
+      "name": "app.114ca6e7ac90e14bf49f.hot-update.js",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/app.114ca6e7ac90e14bf49f.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.114ca6e7ac90e14bf49f.hot-update.js"
+    },
+    "114ca6e7ac90e14bf49f.hot-update.json": {
+      "name": "114ca6e7ac90e14bf49f.hot-update.json",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/114ca6e7ac90e14bf49f.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/114ca6e7ac90e14bf49f.hot-update.json"
+    },
+    "app.1fd006f4231695508f07.hot-update.js": {
+      "name": "app.1fd006f4231695508f07.hot-update.js",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/app.1fd006f4231695508f07.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.1fd006f4231695508f07.hot-update.js"
+    },
+    "1fd006f4231695508f07.hot-update.json": {
+      "name": "1fd006f4231695508f07.hot-update.json",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/1fd006f4231695508f07.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/1fd006f4231695508f07.hot-update.json"
+    },
+    "app.b91f83c6b43ba3af4f2f.hot-update.js": {
+      "name": "app.b91f83c6b43ba3af4f2f.hot-update.js",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/app.b91f83c6b43ba3af4f2f.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.b91f83c6b43ba3af4f2f.hot-update.js"
+    },
+    "b91f83c6b43ba3af4f2f.hot-update.json": {
+      "name": "b91f83c6b43ba3af4f2f.hot-update.json",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/b91f83c6b43ba3af4f2f.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/b91f83c6b43ba3af4f2f.hot-update.json"
+    },
+    "app.92c63a3dd38496534ed7.hot-update.js": {
+      "name": "app.92c63a3dd38496534ed7.hot-update.js",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/app.92c63a3dd38496534ed7.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.92c63a3dd38496534ed7.hot-update.js"
+    },
+    "92c63a3dd38496534ed7.hot-update.json": {
+      "name": "92c63a3dd38496534ed7.hot-update.json",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/92c63a3dd38496534ed7.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/92c63a3dd38496534ed7.hot-update.json"
+    },
+    "app.6ebcb3c343bd061c9147.hot-update.js": {
+      "name": "app.6ebcb3c343bd061c9147.hot-update.js",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/app.6ebcb3c343bd061c9147.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.6ebcb3c343bd061c9147.hot-update.js"
+    },
+    "6ebcb3c343bd061c9147.hot-update.json": {
+      "name": "6ebcb3c343bd061c9147.hot-update.json",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/6ebcb3c343bd061c9147.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/6ebcb3c343bd061c9147.hot-update.json"
+    },
+    "app.a9c43cce65ecd57f0f04.hot-update.js": {
+      "name": "app.a9c43cce65ecd57f0f04.hot-update.js",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/app.a9c43cce65ecd57f0f04.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.a9c43cce65ecd57f0f04.hot-update.js"
+    },
+    "a9c43cce65ecd57f0f04.hot-update.json": {
+      "name": "a9c43cce65ecd57f0f04.hot-update.json",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/a9c43cce65ecd57f0f04.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/a9c43cce65ecd57f0f04.hot-update.json"
+    },
+    "app.cd072d1e443bb733b468.hot-update.js": {
+      "name": "app.cd072d1e443bb733b468.hot-update.js",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/app.cd072d1e443bb733b468.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.cd072d1e443bb733b468.hot-update.js"
+    },
+    "cd072d1e443bb733b468.hot-update.json": {
+      "name": "cd072d1e443bb733b468.hot-update.json",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/cd072d1e443bb733b468.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/cd072d1e443bb733b468.hot-update.json"
+    },
+    "app.d26c2d56adfa6a696b31.hot-update.js": {
+      "name": "app.d26c2d56adfa6a696b31.hot-update.js",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/app.d26c2d56adfa6a696b31.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.d26c2d56adfa6a696b31.hot-update.js"
+    },
+    "d26c2d56adfa6a696b31.hot-update.json": {
+      "name": "d26c2d56adfa6a696b31.hot-update.json",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/d26c2d56adfa6a696b31.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/d26c2d56adfa6a696b31.hot-update.json"
+    },
+    "app.ff2e2e5eec1cfb37c10b.hot-update.js": {
+      "name": "app.ff2e2e5eec1cfb37c10b.hot-update.js",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/app.ff2e2e5eec1cfb37c10b.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.ff2e2e5eec1cfb37c10b.hot-update.js"
+    },
+    "ff2e2e5eec1cfb37c10b.hot-update.json": {
+      "name": "ff2e2e5eec1cfb37c10b.hot-update.json",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/ff2e2e5eec1cfb37c10b.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/ff2e2e5eec1cfb37c10b.hot-update.json"
+    },
+    "app.be195958d39d18b24330.hot-update.js": {
+      "name": "app.be195958d39d18b24330.hot-update.js",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/app.be195958d39d18b24330.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.be195958d39d18b24330.hot-update.js"
+    },
+    "be195958d39d18b24330.hot-update.json": {
+      "name": "be195958d39d18b24330.hot-update.json",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/be195958d39d18b24330.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/be195958d39d18b24330.hot-update.json"
+    },
+    "app.517b4882710e2f65862e.hot-update.js": {
+      "name": "app.517b4882710e2f65862e.hot-update.js",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/app.517b4882710e2f65862e.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.517b4882710e2f65862e.hot-update.js"
+    },
+    "517b4882710e2f65862e.hot-update.json": {
+      "name": "517b4882710e2f65862e.hot-update.json",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/517b4882710e2f65862e.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/517b4882710e2f65862e.hot-update.json"
+    },
+    "app.155e7e3a8ad18e229ca9.hot-update.js": {
+      "name": "app.155e7e3a8ad18e229ca9.hot-update.js",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/app.155e7e3a8ad18e229ca9.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.155e7e3a8ad18e229ca9.hot-update.js"
+    },
+    "155e7e3a8ad18e229ca9.hot-update.json": {
+      "name": "155e7e3a8ad18e229ca9.hot-update.json",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/155e7e3a8ad18e229ca9.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/155e7e3a8ad18e229ca9.hot-update.json"
+    },
+    "app.0f11a062393a5a6445a0.hot-update.js": {
+      "name": "app.0f11a062393a5a6445a0.hot-update.js",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/app.0f11a062393a5a6445a0.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.0f11a062393a5a6445a0.hot-update.js"
+    },
+    "0f11a062393a5a6445a0.hot-update.json": {
+      "name": "0f11a062393a5a6445a0.hot-update.json",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/0f11a062393a5a6445a0.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/0f11a062393a5a6445a0.hot-update.json"
+    },
+    "app.659631c2f772e17e33ea.hot-update.js": {
+      "name": "app.659631c2f772e17e33ea.hot-update.js",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/app.659631c2f772e17e33ea.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.659631c2f772e17e33ea.hot-update.js"
+    },
+    "659631c2f772e17e33ea.hot-update.json": {
+      "name": "659631c2f772e17e33ea.hot-update.json",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/659631c2f772e17e33ea.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/659631c2f772e17e33ea.hot-update.json"
+    },
+    "app.b7c48a6654d717f297d2.hot-update.js": {
+      "name": "app.b7c48a6654d717f297d2.hot-update.js",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/app.b7c48a6654d717f297d2.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.b7c48a6654d717f297d2.hot-update.js"
+    },
+    "b7c48a6654d717f297d2.hot-update.json": {
+      "name": "b7c48a6654d717f297d2.hot-update.json",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/b7c48a6654d717f297d2.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/b7c48a6654d717f297d2.hot-update.json"
+    },
+    "app.a0452c649c4142100e74.hot-update.js": {
+      "name": "app.a0452c649c4142100e74.hot-update.js",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/app.a0452c649c4142100e74.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.a0452c649c4142100e74.hot-update.js"
+    },
+    "a0452c649c4142100e74.hot-update.json": {
+      "name": "a0452c649c4142100e74.hot-update.json",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/a0452c649c4142100e74.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/a0452c649c4142100e74.hot-update.json"
+    },
+    "app.e1a93838025befc4ac51.hot-update.js": {
+      "name": "app.e1a93838025befc4ac51.hot-update.js",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/app.e1a93838025befc4ac51.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.e1a93838025befc4ac51.hot-update.js"
+    },
+    "e1a93838025befc4ac51.hot-update.json": {
+      "name": "e1a93838025befc4ac51.hot-update.json",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/e1a93838025befc4ac51.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/e1a93838025befc4ac51.hot-update.json"
+    },
+    "app.772c60b0c984f4a5c729.hot-update.js": {
+      "name": "app.772c60b0c984f4a5c729.hot-update.js",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/app.772c60b0c984f4a5c729.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.772c60b0c984f4a5c729.hot-update.js"
+    },
+    "772c60b0c984f4a5c729.hot-update.json": {
+      "name": "772c60b0c984f4a5c729.hot-update.json",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/772c60b0c984f4a5c729.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/772c60b0c984f4a5c729.hot-update.json"
+    },
+    "app.34bc8a6e10c0a53c1f80.hot-update.js": {
+      "name": "app.34bc8a6e10c0a53c1f80.hot-update.js",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/app.34bc8a6e10c0a53c1f80.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.34bc8a6e10c0a53c1f80.hot-update.js"
+    },
+    "34bc8a6e10c0a53c1f80.hot-update.json": {
+      "name": "34bc8a6e10c0a53c1f80.hot-update.json",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/34bc8a6e10c0a53c1f80.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/34bc8a6e10c0a53c1f80.hot-update.json"
+    },
+    "app.110f3e32d048b591dfe4.hot-update.js": {
+      "name": "app.110f3e32d048b591dfe4.hot-update.js",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/app.110f3e32d048b591dfe4.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.110f3e32d048b591dfe4.hot-update.js"
+    },
+    "110f3e32d048b591dfe4.hot-update.json": {
+      "name": "110f3e32d048b591dfe4.hot-update.json",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/110f3e32d048b591dfe4.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/110f3e32d048b591dfe4.hot-update.json"
+    },
+    "app.6ccefc1aeaaf26f3aefe.hot-update.js": {
+      "name": "app.6ccefc1aeaaf26f3aefe.hot-update.js",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/app.6ccefc1aeaaf26f3aefe.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.6ccefc1aeaaf26f3aefe.hot-update.js"
+    },
+    "6ccefc1aeaaf26f3aefe.hot-update.json": {
+      "name": "6ccefc1aeaaf26f3aefe.hot-update.json",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/6ccefc1aeaaf26f3aefe.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/6ccefc1aeaaf26f3aefe.hot-update.json"
+    },
+    "app.04cfcd6a545c55820dcd.hot-update.js": {
+      "name": "app.04cfcd6a545c55820dcd.hot-update.js",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/app.04cfcd6a545c55820dcd.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.04cfcd6a545c55820dcd.hot-update.js"
+    },
+    "04cfcd6a545c55820dcd.hot-update.json": {
+      "name": "04cfcd6a545c55820dcd.hot-update.json",
+      "path": "/home/gereko3d/repos/speakly_2/speakly2/frontend/dist/04cfcd6a545c55820dcd.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/04cfcd6a545c55820dcd.hot-update.json"
+    }
+  },
+  "chunks": {
+    "app": [
+      "js/app.js",
+      "app.04cfcd6a545c55820dcd.hot-update.js"
+    ]
+  },
+  "publicPath": "http://0.0.0.0:8080/",
+  "error": "ModuleError",
+  "message": "Module Error (from ./node_modules/eslint-loader/index.js):\n\n/home/gereko3d/repos/speakly_2/speakly2/frontend/src/components/Chat.vue\n  6:22  error  'items' is defined but never used                                                                vue/no-unused-vars\n  6:47  error  Expected 'v-bind:key' directive to use the variables which are defined by the 'v-for' directive  vue/valid-v-for\n\n✖ 2 problems (2 errors, 0 warnings)\n"
+}
